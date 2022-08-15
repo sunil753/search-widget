@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/search-widget/static/js/main.eb666057.js",
+    "index.html": "/search-widget/index.html",
+    "main.eb666057.js.map": "/search-widget/static/js/main.eb666057.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb666057.js"
+  ]
+}
